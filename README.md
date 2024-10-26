@@ -1,7 +1,7 @@
 # Project04-Platformer
 
 # Project Name
-Context and date
+10/26/2024
 
 Description
 
@@ -17,3 +17,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
+Alec Albright
