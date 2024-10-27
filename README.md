@@ -3,10 +3,15 @@
 # Project Name
 10/26/2024
 
-Description
+Enhanced game from class exercises.
 
 ## Implementation
 Which features you included.
+- New enemy
+- New enemy sprite
+- Wall-jump integrated inside the level design
+- New lengthy level 2
+- Multiple levels
 
 ## References
 
